@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Literatura on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/literatura/</link>
+    <description>Recent content in Literatura on My New Hugo Site</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Sep 2025 16:53:49 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/literatura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Quinto en Discordia</title>
+      <link>http://localhost:1313/posts/20250914_el_quinto_en_discordia/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/posts/20250914_el_quinto_en_discordia/</guid>
+      <description>&lt;h1 id=&#34;el-quinto-en-discordia&#34;&gt;El quinto en discordia&lt;/h1&gt;
+&lt;h2 id=&#34;robertson-davies&#34;&gt;Robertson Davies&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Título original&lt;/strong&gt;: Fifth Business&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Editorial&lt;/strong&gt;: Libros del Asteroide&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ISBN&lt;/strong&gt;: 8493431567&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ISBN13&lt;/strong&gt;: 9788493431563&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Páginas&lt;/strong&gt;: 360&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Translator&lt;/strong&gt;: Natalia Cervera&lt;/p&gt;
+&lt;p&gt;Sinopsis:
+Alrededor de la misteriosa muerte del magnate canadiense Boy Staunton se teje la trama de esta novela. La narración corre a cargo de Dunstan Ramsay, amigo desde la infancia de Staunton, quien al intentar aclarar las circunstancias de su muerte no tendrá más remedio que enfrentarse al relato de su propia vida. Desde el principio de la historia, Ramsay ejerce una influencia mística y no del todo inocua en cuantos le rodean: acciones en apariencia inocentes -una pelea con bolas de nieve o el aprendizaje de trucos de cartas- se revelarán como acontecimientos decisivos en las vidas de otros.
+&lt;!-- raw HTML omitted --&gt;El quinto en discordia&lt;!-- raw HTML omitted --&gt; es una muestra de la maestría de Davies para la novela: su erudición le permite tratar los temas más diversos -el circo, el santoral, la primera guerra mundial, o la vida en un internado- con una naturalidad asombrosa; y su imaginación teatral logra cautivar al lector desde el inicio. La primera novela de la trilogía Deptford, la más aclamada de Davies, se alza como la historia de un hombre racional que descubre en lo mágico un aspecto más de lo real.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

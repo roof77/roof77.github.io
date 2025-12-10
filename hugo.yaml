@@ -6,3 +6,8 @@ theme: ["PaperMod"]
 caches:
   images:
     dir: :cacheDir/images
+
+# Configuración de taxonomías
+taxonomies:
+  tag: "tags"
+  category: "categories"

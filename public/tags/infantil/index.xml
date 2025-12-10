@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Infantil on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/infantil/</link>
+    <description>Recent content in Infantil on My New Hugo Site</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Sep 2025 17:09:06 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/infantil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuando el Viento Sopla</title>
+      <link>http://localhost:1313/posts/20250915_cuando_el_viento_sopla/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/posts/20250915_cuando_el_viento_sopla/</guid>
+      <description>&lt;h1 id=&#34;cuando-el-viento-sopla&#34;&gt;Cuando el viento sopla&lt;/h1&gt;
+&lt;h2 id=&#34;raymond-briggs&#34;&gt;Raymond Briggs&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Título original&lt;/strong&gt;: When the Wind Blows&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Editorial&lt;/strong&gt;: Blackie Books&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ISBN&lt;/strong&gt;: 8410025108&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ISBN13&lt;/strong&gt;: 9788410025103&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Páginas&lt;/strong&gt;: 80&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;translator&lt;/strong&gt;: Rosa Montero&lt;/p&gt;
+&lt;p&gt;Sinopsis:
+Considerada de forma unánime la obra cumbre de Raymond Briggs, Cuando el viento sopla fue publicada en 1982, en plena efervescencia del terror ciudadano ante una guerra nuclear.
+En ella los Blogg, un matrimonio inglés atemorizado por un posible ataque soviético, sigue las rudimentarias instrucciones gubernamentales para protegerse de la catástrofe. La ingenuidad de la pareja y la desinformación institucional quedan reflejadas en sutiles viñetas donde costumbrismo e inquietud conviven, hasta su desgarrador desenlace.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

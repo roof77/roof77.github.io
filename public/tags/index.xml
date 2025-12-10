@@ -2,10 +2,137 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Sep 2025 17:09:06 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CienciaFicción</title>
+      <link>http://localhost:1313/tags/cienciaficci%C3%B3n/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/cienciaficci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cómic</title>
+      <link>http://localhost:1313/tags/c%C3%B3mic/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/c%C3%B3mic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ficción</title>
+      <link>http://localhost:1313/tags/ficci%C3%B3n/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ficci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerra</title>
+      <link>http://localhost:1313/tags/guerra/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/guerra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infantil</title>
+      <link>http://localhost:1313/tags/infantil/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/infantil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LiteraturaBritánica</title>
+      <link>http://localhost:1313/tags/literaturabrit%C3%A1nica/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/literaturabrit%C3%A1nica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NovelasGráficas</title>
+      <link>http://localhost:1313/tags/novelasgr%C3%A1ficas/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/novelasgr%C3%A1ficas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Política</title>
+      <link>http://localhost:1313/tags/pol%C3%ADtica/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/pol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PostApocalíptico</title>
+      <link>http://localhost:1313/tags/postapocal%C3%ADptico/</link>
+      <pubDate>Mon, 15 Sep 2025 17:09:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/postapocal%C3%ADptico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canadá</title>
+      <link>http://localhost:1313/tags/canad%C3%A1/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/canad%C3%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clásicos</title>
+      <link>http://localhost:1313/tags/cl%C3%A1sicos/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/cl%C3%A1sicos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ClubLectura</title>
+      <link>http://localhost:1313/tags/clublectura/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/clublectura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Escuela</title>
+      <link>http://localhost:1313/tags/escuela/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/escuela/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FicciónHistórica</title>
+      <link>http://localhost:1313/tags/ficci%C3%B3nhist%C3%B3rica/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ficci%C3%B3nhist%C3%B3rica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FicciónLiteraria</title>
+      <link>http://localhost:1313/tags/ficci%C3%B3nliteraria/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ficci%C3%B3nliteraria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literatura</title>
+      <link>http://localhost:1313/tags/literatura/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/literatura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LiteraturaCanadiense</title>
+      <link>http://localhost:1313/tags/literaturacanadiense/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/literaturacanadiense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Novelas</title>
+      <link>http://localhost:1313/tags/novelas/</link>
+      <pubDate>Sun, 14 Sep 2025 16:53:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/novelas/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
